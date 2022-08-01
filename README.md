@@ -5,3 +5,6 @@ In the paper, section 2.2 shows the hyper parameters that were chosen for the ar
 
 ## Section 3.2 Finding the best learning rate
 Finding the best learning rate was determined via training the model using different learning rates and finding the learning rates which yields the steepest gradient. This is shown in the file `ANN_find_best_learning_rate.py`.
+
+## Section 5 Implied Volatility
+Calculating the implied volatility of the option using Brent's method and ANN is in the file `impliedVolatility.py`
