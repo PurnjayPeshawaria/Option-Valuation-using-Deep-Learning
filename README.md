@@ -8,3 +8,7 @@ Finding the best learning rate was determined via training the model using diffe
 
 ## Section 4 The Heston Model
 The code for approximating option prices using the COS method with the Heston model, and using those prices to train an ANN are in the file `heston.py`.
+
+## Section 5 Implied Volatility
+Calculating the implied volatility of the option using Brent's method and ANN is in the file `impliedVolatility.py`.
+
