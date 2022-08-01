@@ -12,3 +12,6 @@ The code for approximating option prices using the COS method with the Heston mo
 ## Section 5 Implied Volatility
 Calculating the implied volatility of the option using Brent's method and ANN is in the file `impliedVolatility.py`.
 
+## Section 6 Finite Difference Methods for Valuation of Options
+All the files that can be shown for finite difference methods for valuing options can be seen in files `FDM_results.py`, `black_scholes_unscaled.py`, `bspdeCN.py`, `bspdeexp.py`, `bspdeimp.py` and `compare_FDM_ANN.py`
+
